@@ -22,6 +22,9 @@ menu:
   Friends:
     url: /friends
     icon: fas fa-address-book
+  SubWeb:
+    url: https://zeplll.github.io/Siyang_CHEN/
+    icon: fas fa-toggle-off
   # 二级菜单写法如下
   #Medias:
   #  icon: fas fa-list
