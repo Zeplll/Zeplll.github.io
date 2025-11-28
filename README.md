@@ -1,4 +1,3 @@
 # Academic Web
-The purpose of building this website is to push me to fill all the gaps in it as soon as possible💪
+I started this website to push myself to fill in the blanks, while documenting my academic journey💪
 
-BTW, Cursor and I created it together. All these things have become so easy.
